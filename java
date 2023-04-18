@@ -17,7 +17,9 @@ class Main {
             }
             else if(a.compareTo(b)>0)
                  System.out.print(b+" appears before "+a);
+            
           else
                  System.out.print("Both the input strings are the same");
-     }
+     
+}
 }
